@@ -1,0 +1,72 @@
+
+header {
+    background-color: rgb(242, 157, 194);
+    height: 70px;
+    padding: 10px;
+}
+
+
+.container-logo {
+    background-color: aqua;
+    width: 200px;
+    height: 40px;
+    overflow: hidden; 
+}
+.container-logo img {
+    width: 100%;
+}
+ #main-nav{
+    background-color: blueviolet;
+    width: 300px;
+    height: 100px;
+ }
+.nav-1{
+    list-style: none;
+    background-color: rgb(252, 255, 99);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#main-nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav class="Primary-nav">
+            <a href="https://www.behance.net/"></a>
+            <ul> class="nav-list">
+                <figure>
+                    <a href="https://www.behance.net/"><img src="https://pluspng.com/img-png/logo-behance-png-open-2000.png"title="behance logo" width="100" height="20"></a>
+                </figure>
+                <button class="Iniciar sesión">Iniciar sesión</button>
+                <button class="Registrarse">Registrarse</button>
+                <button class="Prueba gratuita">Prueba gratuita</button>
+                <li class="nav1">Para ti</li>
+                <li class="nav1">Descubrir</li>
+                <li class="nav1">Transmisiones en directo</li>
+                <li class="nav1">Contratar</li>
+                <li class="nav1">Vacantes</li>
+            </ul>
+        </nav>
+        <nav>
+            <input type="Adéntrate en el mundo creativo mientras trabajas">
+            <ul>
+                <li class="search"></li>
+            </ul>
+        </nav>
+    </header>
+    <main></main>
+    <footer></footer>
+</body>
+</html>*/
